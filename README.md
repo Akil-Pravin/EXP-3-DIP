@@ -70,9 +70,9 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 
 
 ### Developed By:
-**Name:** SABEESHWARAN. P
+**Name:** PRAVIN S.M
 
-**Register Number:** 212225230234
+**Register Number:** 212224243004
 
 **Date:** 26.07.2026
 
